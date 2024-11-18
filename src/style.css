@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.lockscreen div.username{
+  width: 100%;
+}
+
+.lockscreen .username input{
+  width: 100%;
+}
